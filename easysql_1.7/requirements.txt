@@ -1,0 +1,12 @@
+prompt_toolkit
+shutil
+re
+json
+base64
+random
+pymysql
+getpass
+colorama
+os
+rich
+difflib

@@ -1,0 +1,144 @@
+
+# 2025-04-30 00:39:21.266153
++select
+
+# 2025-04-30 00:42:14.859084
++select power FROM Songs ;
+
+# 2025-04-30 00:42:40.515235
++select * FROM Songs 
+
+# 2025-04-30 00:43:28.200065
++select power FROM avengers 
+
+# 2025-04-30 00:44:25.201157
++select power name FROM avengers where name like 'Iron%
+
+# 2025-04-30 00:44:39.364456
++select * from avengers 
+
+# 2025-04-30 00:45:00.889865
++select power name FRrrom avengers where name like 'Ton%
+
+# 2025-04-30 00:49:18.592566
++select enrollment, registration, address FROM student WHERE program = 'MCA AND name like 'Bikr%
+
+# 2025-04-30 00:49:44.472588
++select enrollment, registration, address FROM student WHERE program = 'MCA 
+
+# 2025-04-30 00:51:00.805503
++select enrollment registration address FORM student WHEERE program = 'MCA 
+
+# 2025-04-30 00:51:40.054671
++select enrollment registration address FORM student 
+
+# 2025-04-30 00:51:50.992466
++select power name FRrrom avengers where name like 'Ton%
+
+# 2025-04-30 00:52:09.342872
++select enrollment, registration address FROM student WHERE program = 'MCA AND name like 'Bikr%
+
+# 2025-04-30 02:33:11.056706
++select address phone_no FRROM student
+
+# 2025-04-30 02:33:59.518374
++select address, phone_no FROM student WHERE address <> NULL
+
+# 2025-04-30 02:34:19.672467
++select address, phone_no FROM student WHERE address not NULL
+
+# 2025-04-30 02:35:10.731008
++select address, phone_no FROM student WHERE address IS NOT NULL
+
+# 2025-04-30 02:37:37.822828
++select address, name FROM student WHERE address IS NOT NULL
+
+# 2025-04-30 02:42:28.238203
++select address, name FROM student WHERE address IS NOT NULL 
+
+# 2025-04-30 02:42:38.374927
++select address, name FROM student WHERE address IS NOT NULL
+
+# 2025-04-30 02:45:40.341290
++SELECT address, name FROM student WHERE address IS NOT NULL
+
+# 2025-04-30 03:02:50.361872
++SELECT address, name FROM student WHERE address IS NOT NUL
+
+# 2025-04-30 03:22:49.925825
++select address FROM student WHERE address IS NOT NULL 
+
+# 2025-04-30 03:22:58.127755
++!cls
+
+# 2025-04-30 03:23:00.927836
++exit
+
+# 2025-04-30 03:28:18.029528
++select address FROM student WHERE address IS NOT NULL 
+
+# 2025-04-30 03:28:29.767120
++!cls
+
+# 2025-04-30 09:23:44.660063
++select enrollment FROM student WHERE program = 'MCA ORDER BY enrollment
+
+# 2025-04-30 09:26:49.027649
++select address FROM student WHERE enrollment = '2321206002033 or enrollment = '2321206002020'
+
+# 2025-04-30 09:56:41.555569
++select enrollment, name FROM student
+
+# 2025-04-30 09:56:57.306138
++!cls
+
+# 2025-04-30 09:58:25.889150
++SELECT enrollment, name FROM student WHERE enrollment LIKE '232120600203_ order by enrollment
+
+# 2025-04-30 09:59:02.060000
++select enrollment FROM student WHERE enrollment = '232120600 ORDER BY enrollment 
+
+# 2025-04-30 09:59:32.551464
++SELECT enrollment, name FROM student WHERE enrollment LIKE '232120600203%
+
+# 2025-04-30 10:07:15.792629
++select registration FROM student WHERE enrollment LIKE '2033%
+
+# 2025-04-30 10:12:24.667477
++select address FROM student WHERE enrollment = '2321206002033 ORDER BY enrollment 
+
+# 2025-04-30 10:12:40.928175
++exit
+
+# 2025-04-30 12:17:44.227261
++SELECT address, name, enrollment 
+
+# 2025-04-30 12:19:10.393540
++SELECT * FROMm student WHEgRE name LIKhhE '%A
+
+# 2025-04-30 12:20:26.660752
++SELECT address, enrollment, registration, name, date_of_birth, phone_no FROM student 
+
+# 2025-04-30 12:20:51.063851
++SELECT address, enrollment, registration, name phone_no FROM student 
+
+# 2025-05-02 22:30:09.589827
++selectt address, name FRROM student 
+
+# 2025-05-02 22:33:43.394595
++exit
+
+# 2025-05-03 19:45:14.295857
++SELECT * frrom avengers;
+
+# 2025-05-10 09:47:38.574464
++select * FROMM avengers;
+
+# 2025-05-10 09:49:57.658817
++select * from student;
+
+# 2025-05-10 09:50:48.233480
++select * from student where name like "sayak%";
+
+# 2025-05-10 09:51:23.264507
++select * from student where registration ="2321206002037";
